@@ -1,0 +1,18 @@
+1. DevOps Lifecycle for Business Agility
+The DevOps lifecycle involves phases like Plan, Code, Build, Test, Release, Deploy, Operate, and Monitor. These phases work together to enable continuous integration, delivery, and deployment, resulting in faster time-to-market and greater business agility.
+
+2. Define Scrum and Kanban Methodologies
+Scrum: Scrum is an iterative framework for managing complex projects, where work is divided into Sprints, typically lasting 2-4 weeks, with regular ceremonies like Daily Standups and Sprint Retrospectives.
+Product Backlog → Sprint Planning → Sprint (2-4 weeks) → Daily Scrum → Sprint Review → Sprint Retrospective → Increment
+
+Kanban: Kanban is a visual workflow management method focused on continuous delivery, where tasks flow through stages like To Do, In Progress, and Done with work-in-progress limits.
+To Do → In Progress (limit WIP) → Testing → Done
+
+
+
+3. Differentiate Continuous Testing and Continuous Delivery
+Continuous Testing involves automated tests at every stage of development to ensure code quality and reduce risks.
+Continuous Delivery ensures that code is always in a release-ready state, allowing for quick and reliable deployments to production environments.
+
+4. Draw the Delivery Pipeline
+The typical DevOps pipeline includes stages such as Code → Build → Test → Release → Deploy → Operate → Monitor, automating the process from development to production, ensuring continuous integration and delivery.
