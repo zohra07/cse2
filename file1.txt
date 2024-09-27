@@ -1,0 +1,23 @@
+1. What is Scrum?
+Scrum is an Agile framework used for managing complex projects. It focuses on iterative development, with defined roles (Product Owner, Scrum Master, Development Team) and events like Sprints, Daily Stand-ups, and Reviews for continuous improvement and feedback.
+
+2. What is a Continuous Delivery (CD) Pipeline?
+A CD pipeline automates the process of building, testing, and deploying code to production. It ensures code changes are ready for release at any time, improving speed, consistency, and reliability of software delivery.
+
+3. Difference Between Continuous Delivery and Continuous Integration?
+Continuous Integration (CI) focuses on frequently merging and testing code changes, ensuring the codebase is always in a working state. Continuous Delivery (CD) ensures the code is always ready for deployment, automating the release process after testing.
+
+4. What is the Agile Business Life Cycle?
+The Agile business life cycle involves iterative stages: Concept, Inception, Iteration (development in sprints), Release, Maintenance, and Retirement. It focuses on delivering value continuously through customer feedback and adaptation.
+
+3. Difference Between Continuous Delivery and Continuous Integration?
+Continuous Integration (CI):
+
+Involves frequently merging code changes (usually multiple times a day) into a shared repository.
+Automated tests are run with every merge to detect errors early.
+Focuses on ensuring that the codebase is always in a healthy, testable state.
+Continuous Delivery (CD):
+
+Builds on CI by ensuring that the code is always ready to be deployed to production.
+The deployment is automated, but it may require manual approval to go live.
+CD ensures that software can be reliably released at any time.
